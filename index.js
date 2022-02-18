@@ -13,7 +13,7 @@ class App extends React.Component {
     // TODO(#3) Update the state such that reactDevName
     // points to a string of your name.
     this.state = {
-      reactDevName: "???",
+      reactDevName: "Mahima",
       todos: []
     };
 
